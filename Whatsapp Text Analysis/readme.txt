@@ -1,1 +1,1 @@
-Analyze whatsapp texts and chats.
+It is a streamlit app used to analyze whatsapp texts and chats. It can be used by Whatsapp buisness accounts to generate a comprhensive account about the texts, messages, user in easy to understand graphs.
