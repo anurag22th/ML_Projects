@@ -1,0 +1,1 @@
+This is a streamlit application used to upload a document and then talk to it. This is done by utilizing HuggingFace models to provide a chatbot that can talk to you, giving insights on uploaded documents.
