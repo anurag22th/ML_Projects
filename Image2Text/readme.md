@@ -1,4 +1,4 @@
-This is a project which uses a tesseract-ocr to convert the text in an image and text in an image inside image to text. It is useful for any individual or organisation as you can just upload the image you want to convert to text and then use it.
+This is a project is a flask application which uses a tesseract-ocr to convert the text in an image and text in an image inside image to text. It is useful for any individual or organisation as you can just upload the image you want to convert to text and then use it.
 
 
 
